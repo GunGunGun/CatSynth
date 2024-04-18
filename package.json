@@ -2,6 +2,9 @@
   "name": "catsynth",
   "version": "0.1.0",
   "private": true,
+  "optimization": {
+      "minimize": false
+  },
   "dependencies": {
     "@chakra-ui/react": "^2.5.2",
     "@emotion/react": "^11.10.6",
